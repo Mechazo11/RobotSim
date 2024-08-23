@@ -1,0 +1,57 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "suspension_steer_B_R_fixed",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "Scene",
+                    "Scene._Hemi_1",
+                    "Scene._Hemi_2",
+                    "Scene.suspension_steer_B_R",
+                    "Scene.suspension_steer_B_R.UV0",
+                    "Scene.suspension_steer_B_R.tex_02",
+                    "Scene.suspension_steer_B_R.tex_03",
+                    "Scene.suspension_steer_B_R.transform"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{A712E8B9-DD06-47B8-89FC-555BB72E5368}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{A5FC0822-0916-4E8D-8B21-3A0138AE5297}",
+            "name": "suspension_steer_B_R_fixed",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "Scene",
+                    "Scene._Hemi_1",
+                    "Scene._Hemi_2",
+                    "Scene.suspension_steer_B_R",
+                    "Scene.suspension_steer_B_R.UV0",
+                    "Scene.suspension_steer_B_R.tex_02",
+                    "Scene.suspension_steer_B_R.tex_03",
+                    "Scene.suspension_steer_B_R.transform"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "tex_02"
+                    }
+                ]
+            }
+        }
+    ]
+}

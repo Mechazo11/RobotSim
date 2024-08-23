@@ -1,0 +1,63 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "suspension_arm_B_L_fixed",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "Scene",
+                    "Scene._Hemi_1",
+                    "Scene._Hemi_1_002",
+                    "Scene._Hemi_2",
+                    "Scene._Hemi_2_002",
+                    "Scene.suspension_arm_B_L",
+                    "Scene.suspension_arm_B_L.UV0",
+                    "Scene.suspension_arm_B_L.tex_03",
+                    "Scene.suspension_arm_B_L.tex_03a",
+                    "Scene.suspension_arm_B_L.tex_05",
+                    "Scene.suspension_arm_B_L.transform"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{80782660-0535-47AB-8834-15DC77E24578}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{224201E6-8678-45C3-BD88-5B5E7FF257AF}",
+            "name": "suspension_arm_B_L_fixed",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "Scene",
+                    "Scene._Hemi_1",
+                    "Scene._Hemi_1_002",
+                    "Scene._Hemi_2",
+                    "Scene._Hemi_2_002",
+                    "Scene.suspension_arm_B_L",
+                    "Scene.suspension_arm_B_L.UV0",
+                    "Scene.suspension_arm_B_L.tex_03",
+                    "Scene.suspension_arm_B_L.tex_03a",
+                    "Scene.suspension_arm_B_L.tex_05",
+                    "Scene.suspension_arm_B_L.transform"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "tex_03a"
+                    }
+                ]
+            }
+        }
+    ]
+}

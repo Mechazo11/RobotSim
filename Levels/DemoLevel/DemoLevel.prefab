@@ -24,8 +24,8 @@
                 "$type": "EditorEntitySortComponent",
                 "Id": 14126657869720434043,
                 "Child Entity Order": [
-                    "Entity_[541237100205]",
                     "Instance_[650636534085]/ContainerEntity",
+                    "Instance_[19079440023447]/ContainerEntity",
                     "Entity_[1176639161715]",
                     "Instance_[594075265400]/ContainerEntity"
                 ]
@@ -168,360 +168,6 @@
                 }
             }
         },
-        "Entity_[519412679849]": {
-            "Id": "Entity_[519412679849]",
-            "Name": "marker",
-            "Components": {
-                "Component_[12345039422781644436]": {
-                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
-                    "Id": 12345039422781644436,
-                    "Parent Entity": "Entity_[549827034797]",
-                    "Transform Data": {
-                        "UniformScale": 0.10000000149011612
-                    }
-                },
-                "Component_[16311924938308571969]": {
-                    "$type": "AZ::Render::EditorMeshComponent",
-                    "Id": 16311924938308571969,
-                    "Controller": {
-                        "Configuration": {
-                            "ModelAsset": {
-                                "assetId": {
-                                    "guid": "{1EE46427-D1C2-5698-B30D-B4CCF46B15CD}",
-                                    "subId": 274434668
-                                },
-                                "assetHint": "objects/_primitives/_sphere_1x1.azmodel"
-                            }
-                        }
-                    }
-                },
-                "Component_[17981273470482180971]": {
-                    "$type": "EditorEntitySortComponent",
-                    "Id": 17981273470482180971
-                },
-                "Component_[2065222331617120332]": {
-                    "$type": "EditorVisibilityComponent",
-                    "Id": 2065222331617120332
-                },
-                "Component_[2096811794606887530]": {
-                    "$type": "EditorDisabledCompositionComponent",
-                    "Id": 2096811794606887530
-                },
-                "Component_[2855690690078728486]": {
-                    "$type": "EditorPendingCompositionComponent",
-                    "Id": 2855690690078728486
-                },
-                "Component_[2949627029165663181]": {
-                    "$type": "EditorMaterialComponent",
-                    "Id": 2949627029165663181,
-                    "Controller": {
-                        "Configuration": {
-                            "materials": [
-                                {
-                                    "Key": {
-                                        "materialSlotStableId": 1738373820
-                                    },
-                                    "Value": {
-                                        "MaterialAsset": {
-                                            "assetId": {
-                                                "guid": "{9C47066E-BD8F-5C1B-B935-933296BBE312}"
-                                            },
-                                            "assetHint": "materials/presets/macbeth/15_red.azmaterial"
-                                        }
-                                    }
-                                }
-                            ]
-                        }
-                    }
-                },
-                "Component_[3984524579386645338]": {
-                    "$type": "EditorLockComponent",
-                    "Id": 3984524579386645338
-                },
-                "Component_[6180558729729631244]": {
-                    "$type": "EditorInspectorComponent",
-                    "Id": 6180558729729631244
-                },
-                "Component_[6203285465432256414]": {
-                    "$type": "EditorOnlyEntityComponent",
-                    "Id": 6203285465432256414
-                },
-                "Component_[7639289353853227968]": {
-                    "$type": "EditorEntityIconComponent",
-                    "Id": 7639289353853227968
-                }
-            }
-        },
-        "Entity_[558067385513]": {
-            "Id": "Entity_[558067385513]",
-            "Name": "marker",
-            "Components": {
-                "Component_[12345039422781644436]": {
-                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
-                    "Id": 12345039422781644436,
-                    "Parent Entity": "Entity_[545532067501]",
-                    "Transform Data": {
-                        "UniformScale": 0.10000000149011612
-                    }
-                },
-                "Component_[16311924938308571969]": {
-                    "$type": "AZ::Render::EditorMeshComponent",
-                    "Id": 16311924938308571969,
-                    "Controller": {
-                        "Configuration": {
-                            "ModelAsset": {
-                                "assetId": {
-                                    "guid": "{1EE46427-D1C2-5698-B30D-B4CCF46B15CD}",
-                                    "subId": 274434668
-                                },
-                                "assetHint": "objects/_primitives/_sphere_1x1.azmodel"
-                            }
-                        }
-                    }
-                },
-                "Component_[17981273470482180971]": {
-                    "$type": "EditorEntitySortComponent",
-                    "Id": 17981273470482180971
-                },
-                "Component_[2065222331617120332]": {
-                    "$type": "EditorVisibilityComponent",
-                    "Id": 2065222331617120332
-                },
-                "Component_[2096811794606887530]": {
-                    "$type": "EditorDisabledCompositionComponent",
-                    "Id": 2096811794606887530
-                },
-                "Component_[2855690690078728486]": {
-                    "$type": "EditorPendingCompositionComponent",
-                    "Id": 2855690690078728486
-                },
-                "Component_[2915573670259884143]": {
-                    "$type": "EditorMaterialComponent",
-                    "Id": 2915573670259884143,
-                    "Controller": {
-                        "Configuration": {
-                            "materials": [
-                                {
-                                    "Key": {
-                                        "materialSlotStableId": 1738373820
-                                    },
-                                    "Value": {
-                                        "MaterialAsset": {
-                                            "assetId": {
-                                                "guid": "{9C47066E-BD8F-5C1B-B935-933296BBE312}"
-                                            }
-                                        }
-                                    }
-                                }
-                            ]
-                        }
-                    }
-                },
-                "Component_[3984524579386645338]": {
-                    "$type": "EditorLockComponent",
-                    "Id": 3984524579386645338
-                },
-                "Component_[6180558729729631244]": {
-                    "$type": "EditorInspectorComponent",
-                    "Id": 6180558729729631244
-                },
-                "Component_[6203285465432256414]": {
-                    "$type": "EditorOnlyEntityComponent",
-                    "Id": 6203285465432256414
-                },
-                "Component_[7639289353853227968]": {
-                    "$type": "EditorEntityIconComponent",
-                    "Id": 7639289353853227968
-                }
-            }
-        },
-        "Entity_[541237100205]": {
-            "Id": "Entity_[541237100205]",
-            "Name": "Navigation Goals",
-            "Components": {
-                "Component_[17164346591282540237]": {
-                    "$type": "EditorLockComponent",
-                    "Id": 17164346591282540237
-                },
-                "Component_[17415240968328691967]": {
-                    "$type": "EditorVisibilityComponent",
-                    "Id": 17415240968328691967
-                },
-                "Component_[2318932367744128274]": {
-                    "$type": "GenericComponentWrapper",
-                    "Id": 2318932367744128274,
-                    "m_template": {
-                        "$type": "RobotSimSampleComponent",
-                        "goals": [
-                            "Entity_[549827034797]",
-                            "Entity_[545532067501]"
-                        ],
-                        "goalMessageTopic": {
-                            "QoS": {
-                                "Reliability": 1
-                            }
-                        }
-                    }
-                },
-                "Component_[3203687041529654758]": {
-                    "$type": "EditorPendingCompositionComponent",
-                    "Id": 3203687041529654758
-                },
-                "Component_[3619370023426190724]": {
-                    "$type": "EditorEntityIconComponent",
-                    "Id": 3619370023426190724
-                },
-                "Component_[4148220384898132613]": {
-                    "$type": "EditorDisabledCompositionComponent",
-                    "Id": 4148220384898132613
-                },
-                "Component_[5899025984044065453]": {
-                    "$type": "EditorInspectorComponent",
-                    "Id": 5899025984044065453
-                },
-                "Component_[6832755442212802241]": {
-                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
-                    "Id": 6832755442212802241,
-                    "Parent Entity": "Entity_[1146574390643]"
-                },
-                "Component_[8029515861578295782]": {
-                    "$type": "EditorEntitySortComponent",
-                    "Id": 8029515861578295782,
-                    "Child Entity Order": [
-                        "Entity_[549827034797]",
-                        "Entity_[545532067501]"
-                    ]
-                },
-                "Component_[9981274412068549118]": {
-                    "$type": "EditorOnlyEntityComponent",
-                    "Id": 9981274412068549118
-                }
-            }
-        },
-        "Entity_[545532067501]": {
-            "Id": "Entity_[545532067501]",
-            "Name": "Goal1",
-            "Components": {
-                "Component_[11277380933974085137]": {
-                    "$type": "EditorPendingCompositionComponent",
-                    "Id": 11277380933974085137
-                },
-                "Component_[12905810954379407220]": {
-                    "$type": "EditorEntityIconComponent",
-                    "Id": 12905810954379407220
-                },
-                "Component_[17328806750758612971]": {
-                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
-                    "Id": 17328806750758612971,
-                    "Parent Entity": "Entity_[541237100205]",
-                    "Transform Data": {
-                        "Translate": [
-                            1.9122638702392578,
-                            -12.367170333862305,
-                            0.3763278126716614
-                        ]
-                    }
-                },
-                "Component_[18390908158299660119]": {
-                    "$type": "EditorLockComponent",
-                    "Id": 18390908158299660119
-                },
-                "Component_[256417676809350783]": {
-                    "$type": "EditorInspectorComponent",
-                    "Id": 256417676809350783
-                },
-                "Component_[3366337885083272070]": {
-                    "$type": "EditorDebugDrawTextComponent",
-                    "Id": 3366337885083272070,
-                    "Element": {
-                        "Text": "Goal1",
-                        "DrawMode": 1,
-                        "TargetEntity": ""
-                    }
-                },
-                "Component_[3950088389572830633]": {
-                    "$type": "EditorEntitySortComponent",
-                    "Id": 3950088389572830633
-                },
-                "Component_[5284476042649108894]": {
-                    "$type": "EditorVisibilityComponent",
-                    "Id": 5284476042649108894
-                },
-                "Component_[5792898783935716826]": {
-                    "$type": "EditorDisabledCompositionComponent",
-                    "Id": 5792898783935716826
-                },
-                "Component_[9226016495091865703]": {
-                    "$type": "EditorOnlyEntityComponent",
-                    "Id": 3950088389572830633,
-                    "Child Entity Order": [
-                        "Entity_[558067385513]"
-                    ]
-                }
-            }
-        },
-        "Entity_[549827034797]": {
-            "Id": "Entity_[549827034797]",
-            "Name": "Goal2",
-            "Components": {
-                "Component_[12380249969967309339]": {
-                    "$type": "EditorPendingCompositionComponent",
-                    "Id": 12380249969967309339
-                },
-                "Component_[1279615831687276180]": {
-                    "$type": "EditorVisibilityComponent",
-                    "Id": 1279615831687276180
-                },
-                "Component_[15829810397729534730]": {
-                    "$type": "EditorEntityIconComponent",
-                    "Id": 15829810397729534730
-                },
-                "Component_[16607348232201416003]": {
-                    "$type": "EditorOnlyEntityComponent",
-                    "Id": 16607348232201416003
-                },
-                "Component_[16857701992694867242]": {
-                    "$type": "EditorInspectorComponent",
-                    "Id": 16857701992694867242
-                },
-                "Component_[18080104825946547885]": {
-                    "$type": "EditorEntitySortComponent",
-                    "Id": 18080104825946547885,
-                    "Child Entity Order": [
-                        "Entity_[519412679849]"
-                    ]
-                },
-                "Component_[2090523752184566705]": {
-                    "$type": "EditorDisabledCompositionComponent",
-                    "Id": 2090523752184566705
-                },
-                "Component_[4266310762232934077]": {
-                    "$type": "EditorDebugDrawTextComponent",
-                    "Id": 4266310762232934077,
-                    "Element": {
-                        "Text": "Goal2",
-                        "DrawMode": 1,
-                        "TargetEntity": ""
-                    }
-                },
-                "Component_[442524716645776730]": {
-                    "$type": "EditorLockComponent",
-                    "Id": 442524716645776730
-                },
-                "Component_[4482050777360513753]": {
-                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
-                    "Id": 4482050777360513753,
-                    "Parent Entity": "Entity_[541237100205]",
-                    "Transform Data": {
-                        "Translate": [
-                            5.516890525817871,
-                            -12.526392936706543,
-                            0.16321372985839844
-                        ]
-                    }
-                }
-            }
-        },
         "Entity_[884702554292]": {
             "Id": "Entity_[884702554292]",
             "Name": "Environmental Light",
@@ -606,6 +252,1611 @@
         }
     },
     "Instances": {
+        "Instance_[19079440023447]": {
+            "Source": "Assets/Importer/curiosity_mars_rover_modified.prefab",
+            "Patches": [
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17176769511319]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17176769511319]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/arm_02_fixed.dae.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17013560754071]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17086575198103]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17013560754071]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17017855721367]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17013560754071]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17013560754071]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/1",
+                    "value": {
+                        "Name": "tex_05",
+                        "MaterialAsset": {
+                            "assetId": {
+                                "guid": "{00000000-0000-0000-0000-000000000000}",
+                                "subId": 0
+                            },
+                            "loadBehavior": "QueueLoad",
+                            "assetHint": ""
+                        }
+                    }
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17013560754071]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/arm_01_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17013560754071]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/arm_01_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17266963824535]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17271258791831]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17266963824535]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17249783955351]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17266963824535]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_05"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17266963824535]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/arm_03_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17266963824535]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/arm_03_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16940546310039]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[16944841277335]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16940546310039]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[16880416767895]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16940546310039]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_04"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16940546310039]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/mast_02_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16940546310039]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/mast_02_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17172474544023]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17176769511319]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17172474544023]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17232604086167]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17172474544023]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17172474544023]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/1",
+                    "value": {
+                        "Name": "tex_05",
+                        "MaterialAsset": {
+                            "assetId": {
+                                "guid": "{00000000-0000-0000-0000-000000000000}",
+                                "subId": 0
+                            },
+                            "loadBehavior": "QueueLoad",
+                            "assetHint": ""
+                        }
+                    }
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17172474544023]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/arm_01_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17172474544023]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/arm_01_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17159589642135]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17159589642135]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/arm_tools_fixed.dae.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17129524871063]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17095165132695]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17129524871063]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17133819838359]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17129524871063]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17185359445911]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17185359445911]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "objects/_primitives/_cylinder_1x1.fbx.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17163884609431]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17168179576727]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17163884609431]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[16974906048407]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17163884609431]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_02"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17163884609431]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_steer_b_r_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17163884609431]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_steer_b_r_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16867531866007]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16867531866007]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_steer_f_l_fixed.dae.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17099460099991]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17099460099991]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/wheel_fixed.dae.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17206834282391]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17035035590551]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17206834282391]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[16871826833303]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17206834282391]/Components/EditorEntitySortComponent/Child Entity Order/2",
+                    "value": "Entity_[17211129249687]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17206834282391]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17206834282391]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/left_axis_jointfix_v2.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17206834282391]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/left_axis_jointfix_v2.dae.pxmesh"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17095165132695]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17099460099991]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17095165132695]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17224014151575]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17228309118871]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17224014151575]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17155294674839]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17224014151575]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17232604086167]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17236899053463]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17232604086167]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17266963824535]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17232604086167]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17039330557847]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17039330557847]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_arm_b_l_fixed.dae.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16876121800599]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16876121800599]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_arm_f_l_fixed.dae.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17052215459735]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17056510427031]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17052215459735]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[16957726179223]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17052215459735]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17189654413207]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[16923366440855]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17189654413207]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17193949380503]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17189654413207]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17017855721367]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17017855721367]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/arm_01_fixed.dae.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16927661408151]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16927661408151]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/wheel_fixed.dae.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17056510427031]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17056510427031]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "objects/_primitives/_cylinder_1x1.fbx.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16889006702487]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[16893301669783]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16889006702487]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[16863236898711]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16889006702487]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17245488988055]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17245488988055]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/arm_04_fixed.dae.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17254078922647]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17254078922647]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "objects/_primitives/_cylinder_1x1.fbx.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17047920492439]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17047920492439]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/right_axis_jointfix_v2.dae.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17271258791831]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17271258791831]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/arm_03_fixed.dae.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17043625525143]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[16854646964119]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17043625525143]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17047920492439]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17043625525143]/Components/EditorEntitySortComponent/Child Entity Order/2",
+                    "value": "Entity_[16846057029527]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17043625525143]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17043625525143]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/right_axis_jointfix_v2.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17043625525143]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/right_axis_jointfix_v2.dae.pxmesh"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17035035590551]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17039330557847]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17035035590551]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[16931956375447]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17035035590551]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03a"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17035035590551]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_arm_b_l_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17035035590551]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_arm_b_l_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16979201015703]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16979201015703]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "objects/_primitives/_cylinder_1x1.fbx.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16901891604375]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16901891604375]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/wheel_fixed.dae.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17155294674839]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17159589642135]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17155294674839]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_04"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17155294674839]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/arm_tools_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17155294674839]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/arm_tools_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17022150688663]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17026445655959]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17022150688663]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17030740623255]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17146704740247]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17065100361623]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17146704740247]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17022150688663]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17146704740247]/Components/EditorEntitySortComponent/Child Entity Order/2",
+                    "value": "Entity_[17150999707543]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17146704740247]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_04"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17146704740247]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/mast_cameras.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17146704740247]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/mast_cameras.dae.pxmesh"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17249783955351]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17254078922647]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17249783955351]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17241194020759]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17249783955351]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17103755067287]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17112345001879]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17103755067287]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17108050034583]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17103755067287]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17103755067287]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_steer_f_r_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17103755067287]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_steer_f_r_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17219719184279]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17219719184279]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_arm_b2_l_fixed.dae.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16983495982999]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17103755067287]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16983495982999]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[16987790950295]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16983495982999]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16871826833303]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[16889006702487]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16871826833303]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[16876121800599]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16871826833303]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03a"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16871826833303]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_arm_f_l_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16871826833303]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_arm_f_l_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16854646964119]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17004970819479]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16854646964119]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[16858941931415]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16854646964119]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03a"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16854646964119]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_arm_b_r_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16854646964119]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_arm_b_r_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17236899053463]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17236899053463]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "objects/_primitives/_cylinder_1x1.fbx.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16841762062231]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17060805394327]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16850351996823]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16850351996823]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_arm_f_r_fixed.dae.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16910481538967]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16910481538967]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_steer_b_l_fixed.dae.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17120934936471]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17125229903767]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17120934936471]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17215424216983]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17129524871063]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17215424216983]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[16966316113815]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17215424216983]/Components/EditorEntitySortComponent/Child Entity Order/2",
+                    "value": "Entity_[17219719184279]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17215424216983]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03a"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17215424216983]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_arm_b2_l_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17215424216983]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_arm_b2_l_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17069395328919]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17069395328919]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "objects/_primitives/_box_1x1.fbx.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17069395328919]/Components/EditorMaterialComponent/Controller/Configuration/materials/0/Value/MaterialAsset/assetHint",
+                    "value": "gazebo/green.azmaterial"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17069395328919]/Components/EditorMaterialComponent/Controller/Configuration/materials/1/Value/MaterialAsset/assetHint",
+                    "value": "gazebo/green.azmaterial"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17060805394327]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17000675852183]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17060805394327]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": "base_footprint"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16936251342743]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16936251342743]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "objects/_primitives/_cylinder_1x1.fbx.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16936251342743]/Components/EditorMaterialComponent/Controller/Configuration/materials/0/Value/MaterialAsset/assetHint",
+                    "value": "gazebo/black.azmaterial"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16936251342743]/Components/EditorMaterialComponent/Controller/Configuration/materials/1/Value/MaterialAsset/assetHint",
+                    "value": "gazebo/black.azmaterial"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17082280230807]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17082280230807]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/wheel_fixed.dae.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16914776506263]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17206834282391]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16914776506263]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17043625525143]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16914776506263]/Components/EditorEntitySortComponent/Child Entity Order/2",
+                    "value": "Entity_[16992085917591]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16914776506263]/Components/EditorEntitySortComponent/Child Entity Order/3",
+                    "value": "Entity_[16919071473559]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16914776506263]/Components/EditorEntitySortComponent/Child Entity Order/4",
+                    "value": "Entity_[17052215459735]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16957726179223]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[16962021146519]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16957726179223]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17181064478615]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16957726179223]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_04"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16957726179223]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/mast_p_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16957726179223]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/mast_p_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16846057029527]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[16850351996823]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16846057029527]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[16983495982999]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16846057029527]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03a"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16846057029527]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_arm_f_r_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16846057029527]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_arm_f_r_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16923366440855]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[16927661408151]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16923366440855]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16987790950295]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16987790950295]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "objects/_primitives/_cylinder_1x1.fbx.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16970611081111]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16970611081111]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "objects/_primitives/_cylinder_1x1.fbx.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16966316113815]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[16970611081111]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16966316113815]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[16906186571671]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16966316113815]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17090870165399]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17090870165399]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "objects/_primitives/_cylinder_1x1.fbx.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16897596637079]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[16901891604375]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16897596637079]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17133819838359]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17133819838359]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "objects/_primitives/_cylinder_1x1.fbx.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17258373889943]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17262668857239]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17258373889943]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17198244347799]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17258373889943]/Components/EditorEntitySortComponent/Child Entity Order/2",
+                    "value": "Entity_[17275553759127]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17258373889943]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03a"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17258373889943]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_arm_b2_r_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17258373889943]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_arm_b2_r_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17073690296215]/Components/ROS2CameraSensorEditorComponent/SensorConfig/Publishers/Depth Camera Info",
+                    "value": {
+                        "Type": "sensor_msgs::msg::CameraInfo",
+                        "Topic": "depth_camera_info",
+                        "QoS": {
+                            "Reliability": 2,
+                            "Durability": 2,
+                            "Depth": 5
+                        }
+                    }
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17073690296215]/Components/ROS2CameraSensorEditorComponent/SensorConfig/Publishers/Depth Image",
+                    "value": {
+                        "Type": "sensor_msgs::msg::Image",
+                        "Topic": "camera_image_depth",
+                        "QoS": {
+                            "Reliability": 2,
+                            "Durability": 2,
+                            "Depth": 5
+                        }
+                    }
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17065100361623]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17069395328919]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17065100361623]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17073690296215]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17086575198103]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17090870165399]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17086575198103]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17172474544023]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17086575198103]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17275553759127]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[16949136244631]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17275553759127]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17279848726423]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17275553759127]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16974906048407]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17077985263511]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16974906048407]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[16979201015703]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16974906048407]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16884711735191]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16884711735191]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "objects/_primitives/_cylinder_1x1.fbx.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17150999707543]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17150999707543]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/mast_cameras.dae.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17181064478615]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17185359445911]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17181064478615]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[16940546310039]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17181064478615]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16953431211927]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16953431211927]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/wheel_fixed.dae.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16962021146519]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16962021146519]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/mast_p_fixed.dae.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16858941931415]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16858941931415]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_arm_b_r_fixed.dae.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16992085917591]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17013560754071]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16992085917591]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[16996380884887]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16992085917591]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16931956375447]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[16936251342743]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16931956375447]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17215424216983]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16931956375447]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17198244347799]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17163884609431]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17198244347799]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17202539315095]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17198244347799]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16863236898711]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17138114805655]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16863236898711]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[16867531866007]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16863236898711]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_02"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16863236898711]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_steer_f_l_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16863236898711]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_steer_f_l_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16893301669783]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16893301669783]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "objects/_primitives/_cylinder_1x1.fbx.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17142409772951]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17142409772951]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "objects/_primitives/_cylinder_1x1.fbx.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17241194020759]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17245488988055]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17241194020759]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17224014151575]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17241194020759]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17241194020759]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/arm_04_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17241194020759]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/arm_04_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17026445655959]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17026445655959]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "objects/_primitives/_cylinder_1x1.fbx.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17026445655959]/Components/EditorMaterialComponent/Controller/Configuration/materials/0/Value/MaterialAsset/assetHint",
+                    "value": "gazebo/black.azmaterial"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17026445655959]/Components/EditorMaterialComponent/Controller/Configuration/materials/1/Value/MaterialAsset/assetHint",
+                    "value": "gazebo/black.azmaterial"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16996380884887]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16996380884887]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "objects/_primitives/_cylinder_1x1.fbx.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17077985263511]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17082280230807]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17077985263511]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17000675852183]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[16914776506263]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16949136244631]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[16953431211927]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16949136244631]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17279848726423]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17279848726423]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "objects/_primitives/_cylinder_1x1.fbx.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17262668857239]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17262668857239]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_arm_b2_r_fixed.dae.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17228309118871]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17228309118871]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "objects/_primitives/_cylinder_1x1.fbx.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17125229903767]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17125229903767]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/wheel_fixed.dae.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17108050034583]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17108050034583]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_steer_f_r_fixed.dae.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17004970819479]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17258373889943]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17004970819479]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17009265786775]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17004970819479]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17193949380503]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17193949380503]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "objects/_primitives/_cylinder_1x1.fbx.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16880416767895]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17146704740247]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16880416767895]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[16884711735191]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16880416767895]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16944841277335]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16944841277335]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/mast_02_fixed.dae.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16906186571671]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[16910481538967]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[16906186571671]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17189654413207]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16906186571671]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16906186571671]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_steer_b_l_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[16906186571671]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_steer_b_l_fixed.dae.pxmesh"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17211129249687]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17211129249687]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/left_axis_jointfix_v2.dae.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17112345001879]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17116639969175]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17112345001879]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17120934936471]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17112345001879]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17116639969175]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17116639969175]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "objects/_primitives/_cylinder_1x1.fbx.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17168179576727]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17168179576727]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_steer_b_r_fixed.dae.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17009265786775]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17009265786775]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "objects/_primitives/_cylinder_1x1.fbx.azmodel"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17009265786775]/Components/EditorMaterialComponent/Controller/Configuration/materials/0/Value/MaterialAsset/assetHint",
+                    "value": "gazebo/black.azmaterial"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17009265786775]/Components/EditorMaterialComponent/Controller/Configuration/materials/1/Value/MaterialAsset/assetHint",
+                    "value": "gazebo/black.azmaterial"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17138114805655]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17142409772951]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17138114805655]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[16897596637079]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17138114805655]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": ""
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17202539315095]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
+                    "value": "QueueLoad"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[17202539315095]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "objects/_primitives/_cylinder_1x1.fbx.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/ContainerEntity/Components/EditorDisabledCompositionComponent",
+                    "value": {
+                        "$type": "EditorDisabledCompositionComponent",
+                        "Id": 8629743408801635470,
+                        "DisabledComponents": []
+                    }
+                },
+                {
+                    "op": "add",
+                    "path": "/ContainerEntity/Components/EditorEntityIconComponent",
+                    "value": {
+                        "$type": "EditorEntityIconComponent",
+                        "Id": 17167379183598947620,
+                        "EntityIconAssetId": {
+                            "guid": "{00000000-0000-0000-0000-000000000000}",
+                            "subId": 0
+                        }
+                    }
+                },
+                {
+                    "op": "add",
+                    "path": "/ContainerEntity/Components/EditorEntitySortComponent",
+                    "value": {
+                        "$type": "EditorEntitySortComponent",
+                        "Id": 14259991262656112814,
+                        "Child Entity Order": [
+                            "Entity_[16841762062231]"
+                        ]
+                    }
+                },
+                {
+                    "op": "add",
+                    "path": "/ContainerEntity/Components/EditorInspectorComponent",
+                    "value": {
+                        "$type": "EditorInspectorComponent",
+                        "Id": 17223082997626840456,
+                        "ComponentOrderEntryArray": []
+                    }
+                },
+                {
+                    "op": "add",
+                    "path": "/ContainerEntity/Components/EditorOnlyEntityComponent",
+                    "value": {
+                        "$type": "EditorOnlyEntityComponent",
+                        "Id": 15785381978302221420,
+                        "IsEditorOnly": false
+                    }
+                },
+                {
+                    "op": "add",
+                    "path": "/ContainerEntity/Components/EditorPendingCompositionComponent",
+                    "value": {
+                        "$type": "EditorPendingCompositionComponent",
+                        "Id": 12712650860669183942,
+                        "PendingComponents": []
+                    }
+                },
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/TransformComponent/Parent Entity",
+                    "value": "../Entity_[1146574390643]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Translate/0",
+                    "value": 2.5181963443756104
+                },
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Translate/1",
+                    "value": -11.088461875915527
+                },
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Translate/2",
+                    "value": 0.8923007249832153
+                }
+            ]
+        },
         "Instance_[594075265400]": {
             "Source": "ROSBot_slamtec.prefab",
             "Patches": [
@@ -627,7 +1878,7 @@
                 {
                     "op": "replace",
                     "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7512134816442]/Components/Component_[2887398288324076962]/Configuration/Centre of mass offset/0",
-                    "value": 8.756181335556331e-10
+                    "value": 8.75618133555633e-10
                 },
                 {
                     "op": "replace",
@@ -667,7 +1918,7 @@
                 {
                     "op": "replace",
                     "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7486365012666]/Components/Component_[17075084475750345983]/Configuration/Centre of mass offset/0",
-                    "value": 8.756181335556331e-10
+                    "value": 8.75618133555633e-10
                 },
                 {
                     "op": "replace",
@@ -697,7 +1948,7 @@
                 {
                     "op": "replace",
                     "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7494954947258]/Components/Component_[5546255188884728002]/Configuration/Centre of mass offset/0",
-                    "value": 8.756181335556331e-10
+                    "value": 8.75618133555633e-10
                 },
                 {
                     "op": "replace",
@@ -732,7 +1983,7 @@
                 {
                     "op": "replace",
                     "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7525019718330]/Components/Component_[11685358238844952494]/Configuration/Centre of mass offset/0",
-                    "value": 8.756181335556331e-10
+                    "value": 8.75618133555633e-10
                 },
                 {
                     "op": "replace",
@@ -832,302 +2083,37 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[5813610029120484168]/Transform Data/Translate/1",
-                    "value": -12.499871253967283
+                    "value": -12.499871253967285
                 },
                 {
                     "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/0/MaterialAsset/assetId/guid",
-                    "value": "{07918D02-A9A8-5954-8E5D-C2FE080F8010}"
+                    "path": "/Entities/Entity_[707595472978]/Components/Component_[2658235371681328481]/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "o3descene/terrain.fbx.azmodel"
                 },
                 {
                     "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/0/MaterialAsset/assetHint",
-                    "value": "physx/plastic.physicsmaterial"
+                    "path": "/Entities/Entity_[729070309458]/Components/Component_[3130608849925615607]/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "o3descene/warehouse.fbx.azmodel"
                 },
                 {
                     "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/1/MaterialAsset/assetId/guid",
-                    "value": "{00000000-0000-0000-0000-000000000000}"
+                    "path": "/Entities/Entity_[729070309458]/Components/Component_[3579789965580572662]/Transform Data/Translate/0",
+                    "value": 8.593571662902832
                 },
                 {
                     "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/1/MaterialAsset/assetId/subId",
-                    "value": 0
+                    "path": "/Entities/Entity_[729070309458]/Components/Component_[3579789965580572662]/Transform Data/Translate/1",
+                    "value": -3.0309982299804688
                 },
                 {
                     "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/1/MaterialAsset/assetHint",
-                    "value": ""
+                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "o3descene/warehouse.fbx.pxmesh"
                 },
                 {
                     "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/2/MaterialAsset/assetId/guid",
-                    "value": "{00000000-0000-0000-0000-000000000000}"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/2/MaterialAsset/assetId/subId",
-                    "value": 0
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/2/MaterialAsset/assetHint",
-                    "value": ""
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/3/MaterialAsset/assetId/guid",
-                    "value": "{0C799856-9E0E-568D-A282-597D13A8556C}"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/3/MaterialAsset/assetHint",
-                    "value": "physx/wood.physicsmaterial"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/4/MaterialAsset/assetId/guid",
-                    "value": "{92A5EC27-1AC1-523E-88BB-9A6278DBD853}"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/4/MaterialAsset/assetHint",
-                    "value": "physx/metal.physicsmaterial"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/5/MaterialAsset/assetId/guid",
-                    "value": "{6D044767-4E3B-5116-A1A7-9C65BCF586A0}"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/5/MaterialAsset/assetHint",
-                    "value": "physx/terrain_dirt.physicsmaterial"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/6/MaterialAsset/assetId/guid",
-                    "value": "{92A5EC27-1AC1-523E-88BB-9A6278DBD853}"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/6/MaterialAsset/assetHint",
-                    "value": "physx/metal.physicsmaterial"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/7/MaterialAsset/assetId/guid",
-                    "value": "{AEFC12E4-B92E-5473-9B09-C6CDEC23EC7E}"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/7/MaterialAsset/assetHint",
-                    "value": "physx/concrete.physicsmaterial"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/8/MaterialAsset/assetId/guid",
-                    "value": "{AEFC12E4-B92E-5473-9B09-C6CDEC23EC7E}"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/8/MaterialAsset/assetHint",
-                    "value": "physx/concrete.physicsmaterial"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/10/MaterialAsset/assetId/guid",
-                    "value": "{92A5EC27-1AC1-523E-88BB-9A6278DBD853}"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/10/MaterialAsset/assetHint",
-                    "value": "physx/metal.physicsmaterial"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/11/MaterialAsset/assetId/guid",
-                    "value": "{92A5EC27-1AC1-523E-88BB-9A6278DBD853}"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/11/MaterialAsset/assetHint",
-                    "value": "physx/metal.physicsmaterial"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/12/MaterialAsset/assetId/guid",
-                    "value": "{92A5EC27-1AC1-523E-88BB-9A6278DBD853}"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/12/MaterialAsset/assetHint",
-                    "value": "physx/metal.physicsmaterial"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/13/MaterialAsset/assetId/guid",
-                    "value": "{AEFC12E4-B92E-5473-9B09-C6CDEC23EC7E}"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/13/MaterialAsset/assetHint",
-                    "value": "physx/concrete.physicsmaterial"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/14/MaterialAsset/assetId/guid",
-                    "value": "{0A945400-0986-5053-9811-D4F349E73B9C}"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/14/MaterialAsset/assetHint",
-                    "value": "physx/character.physicsmaterial"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/15/MaterialAsset/assetId/guid",
-                    "value": "{00000000-0000-0000-0000-000000000000}"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/15/MaterialAsset/assetId/subId",
-                    "value": 0
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/15/MaterialAsset/assetHint",
-                    "value": ""
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/16/MaterialAsset/assetId/guid",
-                    "value": "{00000000-0000-0000-0000-000000000000}"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/16/MaterialAsset/assetId/subId",
-                    "value": 0
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/16/MaterialAsset/assetHint",
-                    "value": ""
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/17/MaterialAsset/assetId/guid",
-                    "value": "{00000000-0000-0000-0000-000000000000}"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/17/MaterialAsset/assetId/subId",
-                    "value": 0
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/17/MaterialAsset/assetHint",
-                    "value": ""
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/18/MaterialAsset/assetId/guid",
-                    "value": "{00000000-0000-0000-0000-000000000000}"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/18/MaterialAsset/assetId/subId",
-                    "value": 0
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/18/MaterialAsset/assetHint",
-                    "value": ""
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/19/MaterialAsset/assetId/guid",
-                    "value": "{00000000-0000-0000-0000-000000000000}"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/19/MaterialAsset/assetId/subId",
-                    "value": 0
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/19/MaterialAsset/assetHint",
-                    "value": ""
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/20/MaterialAsset/assetId/guid",
-                    "value": "{6D9F8E0A-466E-5774-8974-FC7F0872FD00}"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/20/MaterialAsset/assetHint",
-                    "value": "physx/rubber.physicsmaterial"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/21/MaterialAsset/assetId/guid",
-                    "value": "{00000000-0000-0000-0000-000000000000}"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/21/MaterialAsset/assetId/subId",
-                    "value": 0
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/21/MaterialAsset/assetHint",
-                    "value": ""
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/22/MaterialAsset/assetId/guid",
-                    "value": "{00000000-0000-0000-0000-000000000000}"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/22/MaterialAsset/assetId/subId",
-                    "value": 0
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/22/MaterialAsset/assetHint",
-                    "value": ""
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/23/MaterialAsset/assetId/guid",
-                    "value": "{00000000-0000-0000-0000-000000000000}"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/23/MaterialAsset/assetId/subId",
-                    "value": 0
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/23/MaterialAsset/assetHint",
-                    "value": ""
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/24/MaterialAsset/assetId/guid",
-                    "value": "{00000000-0000-0000-0000-000000000000}"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/24/MaterialAsset/assetId/subId",
-                    "value": 0
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ColliderConfiguration/MaterialSlots/Slots/24/MaterialAsset/assetHint",
-                    "value": ""
+                    "path": "/Entities/Entity_[729070309458]/Components/Component_[9485936813148123686]/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "o3descene/warehouse.fbx.pxmesh"
                 }
             ]
         }

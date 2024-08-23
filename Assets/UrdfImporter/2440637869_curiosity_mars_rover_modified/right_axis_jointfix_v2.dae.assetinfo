@@ -1,0 +1,63 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "right_axis_jointfix_v2",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "Scene",
+                    "Scene._Hemi_1",
+                    "Scene._Hemi_2",
+                    "Scene.suspension_axel_R",
+                    "Scene.suspension_axel_R.UV0",
+                    "Scene.suspension_axel_R.suspension_rod_R",
+                    "Scene.suspension_axel_R.suspension_rod_R.UV0",
+                    "Scene.suspension_axel_R.suspension_rod_R.tex_03",
+                    "Scene.suspension_axel_R.suspension_rod_R.transform",
+                    "Scene.suspension_axel_R.tex_03",
+                    "Scene.suspension_axel_R.transform"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{F35E74B7-0F10-4ABD-9F0D-7A5A1377A64B}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{9DFCBA8C-64B4-406D-A7AE-A20794BA928E}",
+            "name": "right_axis_jointfix_v2",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "Scene",
+                    "Scene._Hemi_1",
+                    "Scene._Hemi_2",
+                    "Scene.suspension_axel_R",
+                    "Scene.suspension_axel_R.UV0",
+                    "Scene.suspension_axel_R.suspension_rod_R",
+                    "Scene.suspension_axel_R.suspension_rod_R.UV0",
+                    "Scene.suspension_axel_R.suspension_rod_R.tex_03",
+                    "Scene.suspension_axel_R.suspension_rod_R.transform",
+                    "Scene.suspension_axel_R.tex_03",
+                    "Scene.suspension_axel_R.transform"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "tex_03"
+                    }
+                ]
+            }
+        }
+    ]
+}

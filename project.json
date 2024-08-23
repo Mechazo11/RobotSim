@@ -30,7 +30,7 @@
         "ImGui",
         "LandscapeCanvas",
         "LyShine",
-        "PhysX",
+        "PhysX5",
         "PrimitiveAssets",
         "PrefabBuilder",
         "ROS2",

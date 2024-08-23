@@ -1,0 +1,59 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "suspension_arm_F_R_fixed",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "Scene",
+                    "Scene._Hemi_1",
+                    "Scene._Hemi_2",
+                    "Scene.suspension_arm_F_R",
+                    "Scene.suspension_arm_F_R.UV0",
+                    "Scene.suspension_arm_F_R.tex_03",
+                    "Scene.suspension_arm_F_R.tex_03a",
+                    "Scene.suspension_arm_F_R.tex_05",
+                    "Scene.suspension_arm_F_R.transform"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{B5A53202-7265-48E9-B7AE-D06A506BF438}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{DA0CCC29-9AA3-4A60-B3BC-9B6816B29686}",
+            "name": "suspension_arm_F_R_fixed",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "Scene",
+                    "Scene._Hemi_1",
+                    "Scene._Hemi_2",
+                    "Scene.suspension_arm_F_R",
+                    "Scene.suspension_arm_F_R.UV0",
+                    "Scene.suspension_arm_F_R.tex_03",
+                    "Scene.suspension_arm_F_R.tex_03a",
+                    "Scene.suspension_arm_F_R.tex_05",
+                    "Scene.suspension_arm_F_R.transform"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "tex_03a"
+                    }
+                ]
+            }
+        }
+    ]
+}
