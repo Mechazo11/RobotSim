@@ -1,17 +1,15 @@
 {
     "project_name": "RobotSim",
     "project_id": "{EBE369AB-D852-463A-B245-E09E9CFBBFC8}",
-    "origin": "Open 3D Engine Extras: RobotSim",
-    "license": "https://github.com/o3de/o3de-extras/tree/development/Templates/Ros2ProjectTemplate/Template/LICENSE.txt",
+    "origin": "Azmyin Md. Kamal",
+    "license": "Apache 2.0 or MIT",
     "display_name": "RobotSim",
-    "summary": "Template for ROS2 projects.",
+    "summary": "TODO",
     "canonical_tags": [
         "Project"
     ],
     "user_tags": [
-        "RobotSim",
-        "ROS2",
-        "ROS"
+        "RobotSim"
     ],
     "icon_path": "preview.png",
     "engine": "o3de",
@@ -43,8 +41,7 @@
         "StartingPointInput",
         "TextureAtlas",
         "WhiteBox",
-        "WarehouseSample",
-        "RobotSim"
+        "WarehouseSample"
     ],
     "engine_version": "2.3.0"
 }
