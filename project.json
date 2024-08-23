@@ -35,6 +35,7 @@
         "PrefabBuilder",
         "ROS2",
         "RosRobotSample",
+        "NasaCuriosityRoverGem",
         "SaveData",
         "ScriptCanvasPhysics",
         "ScriptEvents",
