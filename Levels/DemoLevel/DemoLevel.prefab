@@ -26,8 +26,7 @@
                 "Child Entity Order": [
                     "Instance_[650636534085]/ContainerEntity",
                     "Instance_[19079440023447]/ContainerEntity",
-                    "Entity_[1176639161715]",
-                    "Instance_[594075265400]/ContainerEntity"
+                    "Entity_[1176639161715]"
                 ]
             },
             "Component_[15230859088967841193]": {
@@ -356,46 +355,6 @@
                     "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/mast_02_fixed.dae.pxmesh"
                 },
                 {
-                    "op": "add",
-                    "path": "/Entities/Entity_[17172474544023]/Components/EditorEntitySortComponent/Child Entity Order/0",
-                    "value": "Entity_[17176769511319]"
-                },
-                {
-                    "op": "add",
-                    "path": "/Entities/Entity_[17172474544023]/Components/EditorEntitySortComponent/Child Entity Order/1",
-                    "value": "Entity_[17232604086167]"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[17172474544023]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
-                    "value": "tex_03"
-                },
-                {
-                    "op": "add",
-                    "path": "/Entities/Entity_[17172474544023]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/1",
-                    "value": {
-                        "Name": "tex_05",
-                        "MaterialAsset": {
-                            "assetId": {
-                                "guid": "{00000000-0000-0000-0000-000000000000}",
-                                "subId": 0
-                            },
-                            "loadBehavior": "QueueLoad",
-                            "assetHint": ""
-                        }
-                    }
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[17172474544023]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
-                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/arm_01_fixed.dae.pxmesh"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[17172474544023]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
-                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/arm_01_fixed.dae.pxmesh"
-                },
-                {
                     "op": "replace",
                     "path": "/Entities/Entity_[17159589642135]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
                     "value": "QueueLoad"
@@ -431,31 +390,6 @@
                     "value": "objects/_primitives/_cylinder_1x1.fbx.azmodel"
                 },
                 {
-                    "op": "add",
-                    "path": "/Entities/Entity_[17163884609431]/Components/EditorEntitySortComponent/Child Entity Order/0",
-                    "value": "Entity_[17168179576727]"
-                },
-                {
-                    "op": "add",
-                    "path": "/Entities/Entity_[17163884609431]/Components/EditorEntitySortComponent/Child Entity Order/1",
-                    "value": "Entity_[16974906048407]"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[17163884609431]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
-                    "value": "tex_02"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[17163884609431]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
-                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_steer_b_r_fixed.dae.pxmesh"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[17163884609431]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
-                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_steer_b_r_fixed.dae.pxmesh"
-                },
-                {
                     "op": "replace",
                     "path": "/Entities/Entity_[16867531866007]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/loadBehavior",
                     "value": "QueueLoad"
@@ -474,36 +408,6 @@
                     "op": "replace",
                     "path": "/Entities/Entity_[17099460099991]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
                     "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/wheel_fixed.dae.azmodel"
-                },
-                {
-                    "op": "add",
-                    "path": "/Entities/Entity_[17206834282391]/Components/EditorEntitySortComponent/Child Entity Order/0",
-                    "value": "Entity_[17035035590551]"
-                },
-                {
-                    "op": "add",
-                    "path": "/Entities/Entity_[17206834282391]/Components/EditorEntitySortComponent/Child Entity Order/1",
-                    "value": "Entity_[16871826833303]"
-                },
-                {
-                    "op": "add",
-                    "path": "/Entities/Entity_[17206834282391]/Components/EditorEntitySortComponent/Child Entity Order/2",
-                    "value": "Entity_[17211129249687]"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[17206834282391]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
-                    "value": "tex_03"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[17206834282391]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
-                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/left_axis_jointfix_v2.dae.pxmesh"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[17206834282391]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
-                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/left_axis_jointfix_v2.dae.pxmesh"
                 },
                 {
                     "op": "add",
@@ -679,36 +583,6 @@
                     "op": "replace",
                     "path": "/Entities/Entity_[17271258791831]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
                     "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/arm_03_fixed.dae.azmodel"
-                },
-                {
-                    "op": "add",
-                    "path": "/Entities/Entity_[17043625525143]/Components/EditorEntitySortComponent/Child Entity Order/0",
-                    "value": "Entity_[16854646964119]"
-                },
-                {
-                    "op": "add",
-                    "path": "/Entities/Entity_[17043625525143]/Components/EditorEntitySortComponent/Child Entity Order/1",
-                    "value": "Entity_[17047920492439]"
-                },
-                {
-                    "op": "add",
-                    "path": "/Entities/Entity_[17043625525143]/Components/EditorEntitySortComponent/Child Entity Order/2",
-                    "value": "Entity_[16846057029527]"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[17043625525143]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
-                    "value": "tex_03"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[17043625525143]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
-                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/right_axis_jointfix_v2.dae.pxmesh"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[17043625525143]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
-                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/right_axis_jointfix_v2.dae.pxmesh"
                 },
                 {
                     "op": "add",
@@ -1843,7 +1717,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Translate/0",
-                    "value": 2.5181963443756104
+                    "value": 2.8196330070495605
                 },
                 {
                     "op": "replace",
@@ -1853,222 +1727,152 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Translate/2",
-                    "value": 0.8923007249832153
-                }
-            ]
-        },
-        "Instance_[594075265400]": {
-            "Source": "ROSBot_slamtec.prefab",
-            "Patches": [
+                    "value": 6.067466735839844
+                },
                 {
-                    "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[5434025951973]/Components/Component_[6586089230771174257]/Controller/Configuration/materials/0/Value/MaterialAsset/assetHint",
-                    "value": "robot/ros_components_description/meshes/slamtec_rplidar_s1_black.azmaterial"
+                    "op": "add",
+                    "path": "/Entities/Entity_[17163884609431]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17168179576727]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17163884609431]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[16974906048407]"
                 },
                 {
                     "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[5434025951973]/Components/Component_[6586089230771174257]/Controller/Configuration/materials/1/Value/MaterialAsset/assetHint",
-                    "value": "robot/ros_components_description/meshes/slamtec_rplidar_s1_gray.azmaterial"
+                    "path": "/Entities/Entity_[17163884609431]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_02"
                 },
                 {
                     "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[5434025951973]/Components/Component_[6586089230771174257]/Controller/Configuration/materials/2/Value/MaterialAsset/assetHint",
-                    "value": "robot/ros_components_description/meshes/slamtec_rplidar_s1_white.azmaterial"
+                    "path": "/Entities/Entity_[17163884609431]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_steer_b_r_fixed.dae.pxmesh"
                 },
                 {
                     "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7512134816442]/Components/Component_[2887398288324076962]/Configuration/Centre of mass offset/0",
-                    "value": 8.75618133555633e-10
+                    "path": "/Entities/Entity_[17163884609431]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/suspension_steer_b_r_fixed.dae.pxmesh"
                 },
                 {
                     "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7512134816442]/Components/Component_[2887398288324076962]/Configuration/Centre of mass offset/1",
-                    "value": -4.178060328263733e-11
+                    "path": "/Entities/Entity_[17163884609431]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": "suspension_steer_B_R"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17172474544023]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17176769511319]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17172474544023]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17232604086167]"
                 },
                 {
                     "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7512134816442]/Components/Component_[2887398288324076962]/Configuration/Centre of mass offset/2",
-                    "value": 3.73438419076777e-10
+                    "path": "/Entities/Entity_[17172474544023]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17172474544023]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/1",
+                    "value": {
+                        "Name": "tex_05",
+                        "MaterialAsset": {
+                            "assetId": {
+                                "guid": "{00000000-0000-0000-0000-000000000000}",
+                                "subId": 0
+                            },
+                            "loadBehavior": "QueueLoad",
+                            "assetHint": ""
+                        }
+                    }
                 },
                 {
                     "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7512134816442]/Components/Component_[2887398288324076962]/Configuration/Inertia tensor/0",
-                    "value": 0.0006803107680752873
+                    "path": "/Entities/Entity_[17172474544023]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/arm_01_fixed.dae.pxmesh"
                 },
                 {
                     "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7512134816442]/Components/Component_[2887398288324076962]/Configuration/Inertia tensor/4",
-                    "value": 0.0011446215212345123
+                    "path": "/Entities/Entity_[17172474544023]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/arm_01_fixed.dae.pxmesh"
                 },
                 {
                     "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7512134816442]/Components/Component_[2887398288324076962]/Configuration/Inertia tensor/8",
-                    "value": 0.0006803107680752873
+                    "path": "/Entities/Entity_[17172474544023]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": "arm_02"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17206834282391]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[17035035590551]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17206834282391]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[16871826833303]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17206834282391]/Components/EditorEntitySortComponent/Child Entity Order/2",
+                    "value": "Entity_[17211129249687]"
                 },
                 {
                     "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7512134816442]/Components/Component_[7582333791661511609]/ShapeConfiguration/Cylinder/Configuration/CookedData",
-                    "value": "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"
+                    "path": "/Entities/Entity_[17206834282391]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03"
                 },
                 {
                     "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7486365012666]/Components/Component_[12925256151907998248]/ShapeConfiguration/Cylinder/Configuration/CookedData",
-                    "value": "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"
+                    "path": "/Entities/Entity_[17206834282391]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/left_axis_jointfix_v2.dae.pxmesh"
                 },
                 {
                     "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7486365012666]/Components/Component_[17075084475750345983]/Configuration/Centre of mass offset/0",
-                    "value": 8.75618133555633e-10
+                    "path": "/Entities/Entity_[17206834282391]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/left_axis_jointfix_v2.dae.pxmesh"
                 },
                 {
                     "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7486365012666]/Components/Component_[17075084475750345983]/Configuration/Centre of mass offset/1",
-                    "value": -4.178060328263733e-11
+                    "path": "/Entities/Entity_[17206834282391]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": "left_axis"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17043625525143]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[16854646964119]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17043625525143]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[17047920492439]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[17043625525143]/Components/EditorEntitySortComponent/Child Entity Order/2",
+                    "value": "Entity_[16846057029527]"
                 },
                 {
                     "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7486365012666]/Components/Component_[17075084475750345983]/Configuration/Centre of mass offset/2",
-                    "value": 3.73438419076777e-10
+                    "path": "/Entities/Entity_[17043625525143]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03"
                 },
                 {
                     "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7486365012666]/Components/Component_[17075084475750345983]/Configuration/Inertia tensor/0",
-                    "value": 0.0006803107680752873
+                    "path": "/Entities/Entity_[17043625525143]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/right_axis_jointfix_v2.dae.pxmesh"
                 },
                 {
                     "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7486365012666]/Components/Component_[17075084475750345983]/Configuration/Inertia tensor/4",
-                    "value": 0.0011446215212345123
+                    "path": "/Entities/Entity_[17043625525143]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
+                    "value": "assets/urdfimporter/2440637869_curiosity_mars_rover_modified/right_axis_jointfix_v2.dae.pxmesh"
                 },
                 {
                     "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7486365012666]/Components/Component_[17075084475750345983]/Configuration/Inertia tensor/8",
-                    "value": 0.0006803107680752873
-                },
-                {
-                    "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7494954947258]/Components/Component_[5546255188884728002]/Configuration/Centre of mass offset/0",
-                    "value": 8.75618133555633e-10
-                },
-                {
-                    "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7494954947258]/Components/Component_[5546255188884728002]/Configuration/Centre of mass offset/1",
-                    "value": -4.178060328263733e-11
-                },
-                {
-                    "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7494954947258]/Components/Component_[5546255188884728002]/Configuration/Centre of mass offset/2",
-                    "value": 3.73438419076777e-10
-                },
-                {
-                    "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7494954947258]/Components/Component_[5546255188884728002]/Configuration/Inertia tensor/0",
-                    "value": 0.0006803107680752873
-                },
-                {
-                    "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7494954947258]/Components/Component_[5546255188884728002]/Configuration/Inertia tensor/4",
-                    "value": 0.0011446215212345123
-                },
-                {
-                    "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7494954947258]/Components/Component_[5546255188884728002]/Configuration/Inertia tensor/8",
-                    "value": 0.0006803107680752873
-                },
-                {
-                    "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7494954947258]/Components/Component_[5729393866127649618]/ShapeConfiguration/Cylinder/Configuration/CookedData",
-                    "value": "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"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7525019718330]/Components/Component_[11685358238844952494]/Configuration/Centre of mass offset/0",
-                    "value": 8.75618133555633e-10
-                },
-                {
-                    "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7525019718330]/Components/Component_[11685358238844952494]/Configuration/Centre of mass offset/1",
-                    "value": -4.178060328263733e-11
-                },
-                {
-                    "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7525019718330]/Components/Component_[11685358238844952494]/Configuration/Centre of mass offset/2",
-                    "value": 3.73438419076777e-10
-                },
-                {
-                    "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7525019718330]/Components/Component_[11685358238844952494]/Configuration/Inertia tensor/0",
-                    "value": 0.0006803107680752873
-                },
-                {
-                    "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7525019718330]/Components/Component_[11685358238844952494]/Configuration/Inertia tensor/4",
-                    "value": 0.0011446215212345123
-                },
-                {
-                    "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7525019718330]/Components/Component_[11685358238844952494]/Configuration/Inertia tensor/8",
-                    "value": 0.0006803107680752873
-                },
-                {
-                    "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[7525019718330]/Components/Component_[7456975798968691780]/ShapeConfiguration/Cylinder/Configuration/CookedData",
-                    "value": "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"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[969892482106]/Components/Component_[6043040033160946649]/Transform Data/Translate/0",
-                    "value": 1.8933937549591064
-                },
-                {
-                    "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[969892482106]/Components/Component_[6043040033160946649]/Transform Data/Translate/1",
-                    "value": 4.379880905151367
-                },
-                {
-                    "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[969892482106]/Components/Component_[6043040033160946649]/Transform Data/Translate/2",
-                    "value": 2.2751402854919434
-                },
-                {
-                    "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[969892482106]/Components/Component_[6043040033160946649]/Transform Data/Rotate/0",
-                    "value": 23.19171905517578
-                },
-                {
-                    "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[969892482106]/Components/Component_[6043040033160946649]/Transform Data/Rotate/1",
-                    "value": -9.661469459533691
-                },
-                {
-                    "op": "replace",
-                    "path": "/Instances/Instance_[3732164110801]/Entities/Entity_[969892482106]/Components/Component_[6043040033160946649]/Transform Data/Rotate/2",
-                    "value": 158.60848999023438
-                },
-                {
-                    "op": "replace",
-                    "path": "/ContainerEntity/Components/Component_[615377764463113571]/Child Entity Order/0",
-                    "value": "Instance_[3732164110801]/ContainerEntity"
-                },
-                {
-                    "op": "replace",
-                    "path": "/ContainerEntity/Components/Component_[959982562508610]/Parent Entity",
-                    "value": "../Entity_[1146574390643]"
-                },
-                {
-                    "op": "replace",
-                    "path": "/ContainerEntity/Components/Component_[959982562508610]/Transform Data/Translate/0",
-                    "value": 0.842374324798584
-                },
-                {
-                    "op": "replace",
-                    "path": "/ContainerEntity/Components/Component_[959982562508610]/Transform Data/Translate/1",
-                    "value": -12.669219970703123
-                },
-                {
-                    "op": "replace",
-                    "path": "/ContainerEntity/Components/Component_[959982562508610]/Transform Data/Translate/2",
-                    "value": 0.034102797508239746
+                    "path": "/Entities/Entity_[17043625525143]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": "right_axis"
                 }
             ]
         },
