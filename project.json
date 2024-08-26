@@ -14,6 +14,7 @@
     "icon_path": "preview.png",
     "engine": "o3de",
     "external_subdirectories": [
+        "/home/tigerwife/O3DE/Gems/NasaCuriosityRoverGem",
         "Gem"
     ],
     "restricted": "RobotSim",
@@ -35,7 +36,6 @@
         "PrefabBuilder",
         "ROS2",
         "RosRobotSample",
-        "NasaCuriosityRoverGem",
         "SaveData",
         "ScriptCanvasPhysics",
         "ScriptEvents",
@@ -44,5 +44,6 @@
         "WhiteBox",
         "WarehouseSample",
         "RobotSim"
-    ]
+    ],
+    "version": "1.0.0"
 }
