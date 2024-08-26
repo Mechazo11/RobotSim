@@ -42,6 +42,7 @@
         "TextureAtlas",
         "WhiteBox",
         "WarehouseSample",
+        "Terrain",
         "RobotSim"
     ],
     "version": "1.0.0"
