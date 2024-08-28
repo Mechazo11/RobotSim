@@ -1,0 +1,67 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "suspension_arm_B_R_fixed",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "Scene",
+                    "Scene._Hemi_1",
+                    "Scene._Hemi_1_001",
+                    "Scene._Hemi_1_002",
+                    "Scene._Hemi_2",
+                    "Scene._Hemi_2_001",
+                    "Scene._Hemi_2_002",
+                    "Scene.suspension_arm_B_R",
+                    "Scene.suspension_arm_B_R.UV0",
+                    "Scene.suspension_arm_B_R.tex_03",
+                    "Scene.suspension_arm_B_R.tex_03a",
+                    "Scene.suspension_arm_B_R.tex_05",
+                    "Scene.suspension_arm_B_R.transform"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{6489AC85-7FE3-4144-A9FA-624A5DA8E644}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{8AC87C1D-A1A9-4236-B5FC-1D27B07E2DDC}",
+            "name": "suspension_arm_B_R_fixed",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "Scene",
+                    "Scene._Hemi_1",
+                    "Scene._Hemi_1_001",
+                    "Scene._Hemi_1_002",
+                    "Scene._Hemi_2",
+                    "Scene._Hemi_2_001",
+                    "Scene._Hemi_2_002",
+                    "Scene.suspension_arm_B_R",
+                    "Scene.suspension_arm_B_R.UV0",
+                    "Scene.suspension_arm_B_R.tex_03",
+                    "Scene.suspension_arm_B_R.tex_03a",
+                    "Scene.suspension_arm_B_R.tex_05",
+                    "Scene.suspension_arm_B_R.transform"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "tex_03a"
+                    }
+                ]
+            }
+        }
+    ]
+}

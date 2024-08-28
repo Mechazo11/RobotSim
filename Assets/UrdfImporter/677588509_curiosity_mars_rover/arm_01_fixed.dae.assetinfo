@@ -1,0 +1,68 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "arm_01_fixed",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "Scene",
+                    "Scene._Hemi_1",
+                    "Scene._Hemi_2",
+                    "Scene.arm_01",
+                    "Scene.arm_01.MAHLI_calibration_target",
+                    "Scene.arm_01.MAHLI_calibration_target.UV0",
+                    "Scene.arm_01.MAHLI_calibration_target.tex_05",
+                    "Scene.arm_01.MAHLI_calibration_target.transform",
+                    "Scene.arm_01.UV0",
+                    "Scene.arm_01.tex_01",
+                    "Scene.arm_01.tex_03",
+                    "Scene.arm_01.transform"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{80A136D6-6051-4B14-9515-BF3D0F5BA57F}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{ED274A4F-1675-4F50-A7AA-9CCA2BFB0983}",
+            "name": "arm_01_fixed",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "Scene",
+                    "Scene._Hemi_1",
+                    "Scene._Hemi_2",
+                    "Scene.arm_01",
+                    "Scene.arm_01.MAHLI_calibration_target",
+                    "Scene.arm_01.MAHLI_calibration_target.UV0",
+                    "Scene.arm_01.MAHLI_calibration_target.tex_05",
+                    "Scene.arm_01.MAHLI_calibration_target.transform",
+                    "Scene.arm_01.UV0",
+                    "Scene.arm_01.tex_01",
+                    "Scene.arm_01.tex_03",
+                    "Scene.arm_01.transform"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "tex_03"
+                    },
+                    {
+                        "Name": "tex_05"
+                    }
+                ]
+            }
+        }
+    ]
+}

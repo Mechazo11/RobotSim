@@ -1483,6 +1483,461 @@
                     "op": "replace",
                     "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Translate/2",
                     "value": 6.0760273933410645
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7918333756913]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[7935513626097]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7918333756913]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[7858204214769]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7918333756913]/Components/EditorEntitySortComponent/Child Entity Order/2",
+                    "value": "Entity_[7922628724209]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7918333756913]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03a"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7901153887729]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[7883974018545]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7901153887729]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[7905448855025]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7901153887729]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7832434410993]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[7892563953137]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7832434410993]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[7836729378289]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7832434410993]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7832434410993]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/1",
+                    "value": {
+                        "Name": "tex_05",
+                        "MaterialAsset": {
+                            "assetId": {
+                                "guid": "{00000000-0000-0000-0000-000000000000}",
+                                "subId": 0
+                            },
+                            "loadBehavior": "QueueLoad",
+                            "assetHint": ""
+                        }
+                    }
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7673520621041]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[7677815588337]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7673520621041]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[7746535065073]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7673520621041]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7673520621041]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/1",
+                    "value": {
+                        "Name": "tex_05",
+                        "MaterialAsset": {
+                            "assetId": {
+                                "guid": "{00000000-0000-0000-0000-000000000000}",
+                                "subId": 0
+                            },
+                            "loadBehavior": "QueueLoad",
+                            "assetHint": ""
+                        }
+                    }
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7926923691505]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[7909743822321]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7926923691505]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[7931218658801]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7926923691505]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_05"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7617686046193]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[7621981013489]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7617686046193]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[7841024345585]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7617686046193]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_04"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7523196765681]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[7798074672625]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7523196765681]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[7527491732977]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7523196765681]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_02"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7823844476401]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[7828139443697]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7823844476401]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[7634865915377]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7823844476401]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_02"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7866794149361]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[7694995457521]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7866794149361]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[7531786700273]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7866794149361]/Components/EditorEntitySortComponent/Child Entity Order/2",
+                    "value": "Entity_[7871089116657]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7866794149361]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7815254541809]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[7819549509105]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7815254541809]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_04"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7703585392113]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[7506016896497]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7703585392113]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[7707880359409]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7703585392113]/Components/EditorEntitySortComponent/Child Entity Order/2",
+                    "value": "Entity_[7514606831089]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7703585392113]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7506016896497]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[7643455849969]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7506016896497]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[7510311863793]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7506016896497]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03a"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7531786700273]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[7548966569457]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7531786700273]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[7536081667569]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7531786700273]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03a"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7600506177009]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[7540376634865]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7600506177009]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[7604801144305]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7600506177009]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_04"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7566146438641]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[7570441405937]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7566146438641]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[7849614280177]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7566146438641]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7763714934257]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[7772304868849]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7763714934257]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[7768009901553]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7763714934257]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7875384083953]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[7789484738033]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7875384083953]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[7879679051249]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7875384083953]/Components/EditorEntitySortComponent/Child Entity Order/2",
+                    "value": "Entity_[7626275980785]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7875384083953]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03a"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7806664607217]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[7810959574513]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7806664607217]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[7682110555633]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7806664607217]/Components/EditorEntitySortComponent/Child Entity Order/2",
+                    "value": "Entity_[7725060228593]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7806664607217]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_04"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7514606831089]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[7664930686449]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7514606831089]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[7518901798385]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7514606831089]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03a"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7514606831089]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": "suspension_arm_B_R"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7694995457521]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[7591916242417]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7694995457521]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[7699290424817]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7694995457521]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_03a"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7694995457521]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": "suspension_arm_B_L"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7574736373233]/Components/EditorEntitySortComponent/Child Entity Order/0",
+                    "value": "Entity_[7712175326705]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7574736373233]/Components/EditorEntitySortComponent/Child Entity Order/1",
+                    "value": "Entity_[7579031340529]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7574736373233]/Components/EditorEntitySortComponent/Child Entity Order/2",
+                    "value": "Entity_[7703585392113]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7574736373233]/Components/EditorEntitySortComponent/Child Entity Order/3",
+                    "value": "Entity_[7652045784561]"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7574736373233]/Components/EditorEntitySortComponent/Child Entity Order/4",
+                    "value": "Entity_[7866794149361]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7574736373233]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
+                    "value": "tex_01"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7574736373233]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/1",
+                    "value": {
+                        "Name": "base_gray",
+                        "MaterialAsset": {
+                            "assetId": {
+                                "guid": "{00000000-0000-0000-0000-000000000000}",
+                                "subId": 0
+                            },
+                            "loadBehavior": "QueueLoad",
+                            "assetHint": ""
+                        }
+                    }
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7574736373233]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/2",
+                    "value": {
+                        "Name": "tex_02",
+                        "MaterialAsset": {
+                            "assetId": {
+                                "guid": "{00000000-0000-0000-0000-000000000000}",
+                                "subId": 0
+                            },
+                            "loadBehavior": "QueueLoad",
+                            "assetHint": ""
+                        }
+                    }
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7574736373233]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/3",
+                    "value": {
+                        "Name": "tex_03",
+                        "MaterialAsset": {
+                            "assetId": {
+                                "guid": "{00000000-0000-0000-0000-000000000000}",
+                                "subId": 0
+                            },
+                            "loadBehavior": "QueueLoad",
+                            "assetHint": ""
+                        }
+                    }
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[7574736373233]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/4",
+                    "value": {
+                        "Name": "parts_AO",
+                        "MaterialAsset": {
+                            "assetId": {
+                                "guid": "{00000000-0000-0000-0000-000000000000}",
+                                "subId": 0
+                            },
+                            "loadBehavior": "QueueLoad",
+                            "assetHint": ""
+                        }
+                    }
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[7574736373233]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
+                    "value": "chassis"
                 }
             ]
         },

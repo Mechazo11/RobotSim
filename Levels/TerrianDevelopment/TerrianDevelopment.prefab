@@ -419,9 +419,6 @@
         }
     },
     "Instances": {
-        "Instance_[651948840225]": {
-            "Source": "Assets/Importer/curiosity_mars_rover.prefab"
-        },
         "Instance_[9739399890417]": {
             "Source": "Assets/Importer/curiosity_mars_rover.prefab",
             "Patches": [
@@ -1653,7 +1650,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Translate/2",
-                    "value": 0.9875402450561523
+                    "value": 0.9875402450561525
                 },
                 {
                     "op": "replace",
@@ -1972,16 +1969,6 @@
                 },
                 {
                     "op": "replace",
-                    "path": "/Entities/Entity_[7514606831089]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
-                    "value": "assets/urdfimporter/677588509_curiosity_mars_rover/suspension_arm_b_r_fixed.dae.pxmesh"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[7514606831089]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
-                    "value": "assets/urdfimporter/677588509_curiosity_mars_rover/suspension_arm_b_r_fixed.dae.pxmesh"
-                },
-                {
-                    "op": "replace",
                     "path": "/Entities/Entity_[7514606831089]/Components/ROS2FrameEditorComponent/ROS2FrameConfiguration/Namespace Configuration/Namespace",
                     "value": "suspension_arm_B_R"
                 },
@@ -1999,16 +1986,6 @@
                     "op": "replace",
                     "path": "/Entities/Entity_[7694995457521]/Components/EditorMeshColliderComponent/ColliderConfiguration/MaterialSlots/Slots/0/Name",
                     "value": "tex_03a"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[7694995457521]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
-                    "value": "assets/urdfimporter/677588509_curiosity_mars_rover/suspension_arm_b_l_fixed.dae.pxmesh"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[7694995457521]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
-                    "value": "assets/urdfimporter/677588509_curiosity_mars_rover/suspension_arm_b_l_fixed.dae.pxmesh"
                 },
                 {
                     "op": "replace",
@@ -2104,16 +2081,6 @@
                             "assetHint": ""
                         }
                     }
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[7574736373233]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Asset/assetHint",
-                    "value": "assets/urdfimporter/677588509_curiosity_mars_rover/chassis_full_fixed_glitch_v3.dae.pxmesh"
-                },
-                {
-                    "op": "replace",
-                    "path": "/Entities/Entity_[7574736373233]/Components/EditorMeshColliderComponent/ShapeConfiguration/PhysicsAsset/Configuration/PhysicsAsset/assetHint",
-                    "value": "assets/urdfimporter/677588509_curiosity_mars_rover/chassis_full_fixed_glitch_v3.dae.pxmesh"
                 },
                 {
                     "op": "replace",

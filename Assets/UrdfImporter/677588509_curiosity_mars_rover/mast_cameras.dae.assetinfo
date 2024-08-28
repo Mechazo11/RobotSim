@@ -1,0 +1,79 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "mast_cameras",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "Scene",
+                    "Scene._Hemi_1",
+                    "Scene._Hemi_2",
+                    "Scene.mast_03",
+                    "Scene.mast_03.ChemCam",
+                    "Scene.mast_03.ChemCam.UV0",
+                    "Scene.mast_03.ChemCam.tex_04",
+                    "Scene.mast_03.ChemCam.transform",
+                    "Scene.mast_03.MastCam",
+                    "Scene.mast_03.MastCam.UV0",
+                    "Scene.mast_03.MastCam.tex_04",
+                    "Scene.mast_03.MastCam.transform",
+                    "Scene.mast_03.NavCam",
+                    "Scene.mast_03.NavCam.UV0",
+                    "Scene.mast_03.NavCam.tex_04",
+                    "Scene.mast_03.NavCam.transform",
+                    "Scene.mast_03.UV0",
+                    "Scene.mast_03.tex_04",
+                    "Scene.mast_03.transform"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{54D06D78-9FC9-4914-8B98-608E0257445E}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{BDE7DEFB-96F0-463B-A54D-D0DA8D7A33F3}",
+            "name": "mast_cameras",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "Scene",
+                    "Scene._Hemi_1",
+                    "Scene._Hemi_2",
+                    "Scene.mast_03",
+                    "Scene.mast_03.ChemCam",
+                    "Scene.mast_03.ChemCam.UV0",
+                    "Scene.mast_03.ChemCam.tex_04",
+                    "Scene.mast_03.ChemCam.transform",
+                    "Scene.mast_03.MastCam",
+                    "Scene.mast_03.MastCam.UV0",
+                    "Scene.mast_03.MastCam.tex_04",
+                    "Scene.mast_03.MastCam.transform",
+                    "Scene.mast_03.NavCam",
+                    "Scene.mast_03.NavCam.UV0",
+                    "Scene.mast_03.NavCam.tex_04",
+                    "Scene.mast_03.NavCam.transform",
+                    "Scene.mast_03.UV0",
+                    "Scene.mast_03.tex_04",
+                    "Scene.mast_03.transform"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "tex_04"
+                    }
+                ]
+            }
+        }
+    ]
+}
