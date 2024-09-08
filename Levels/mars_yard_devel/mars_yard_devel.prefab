@@ -20,9 +20,9 @@
                 "Id": 14126657869720434043,
                 "Child Entity Order": [
                     "Entity_[1176639161715]",
-                    "Instance_[1387993470495]/ContainerEntity",
                     "Instance_[13912118105631]/ContainerEntity",
-                    "Instance_[29895061817134]/ContainerEntity"
+                    "Instance_[29895061817134]/ContainerEntity",
+                    "Instance_[15953159271657]/ContainerEntity"
                 ]
             },
             "Component_[15230859088967841193]": {
@@ -366,7 +366,231 @@
         }
     },
     "Instances": {
-        "Instance_[1387993470495]": {
+        "Instance_[13912118105631]": {
+            "Source": "rocky_ground.prefab",
+            "Patches": [
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/TransformComponent/Parent Entity",
+                    "value": "../Entity_[1146574390643]"
+                },
+                {
+                    "op": "remove",
+                    "path": "/Entities/Entity_[393908528730]/Components/EditorEntitySortComponent/Child Entity Order/0"
+                },
+                {
+                    "op": "remove",
+                    "path": "/Entities/Entity_[443644086002]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[442317010693]/Name",
+                    "value": "brickstone_slope"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[442317010693]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetId/guid",
+                    "value": "{13D0A441-6074-5723-A3B9-E354EAB11241}"
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[442317010693]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetId/subId",
+                    "value": 280940996
+                },
+                {
+                    "op": "replace",
+                    "path": "/Entities/Entity_[442317010693]/Components/AZ::Render::EditorMeshComponent/Controller/Configuration/ModelAsset/assetHint",
+                    "value": "thirty_degree_slope_v2.fbx.azmodel"
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[442317010693]/Components/EditorMeshColliderComponent",
+                    "value": {
+                        "$type": "EditorMeshColliderComponent",
+                        "Id": 6599299971534134843,
+                        "ColliderConfiguration": {
+                            "CollisionLayer": {
+                                "Index": 0
+                            },
+                            "CollisionGroupId": {
+                                "GroupId": "{00000000-0000-0000-0000-000000000000}"
+                            },
+                            "Visible": false,
+                            "Trigger": false,
+                            "Simulated": true,
+                            "DummySimulated": false,
+                            "InSceneQueries": true,
+                            "Exclusive": true,
+                            "Position": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ],
+                            "Rotation": [
+                                0.0,
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "MaterialSlots": {
+                                "Slots": [
+                                    {
+                                        "Name": "Entire object",
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{00000000-0000-0000-0000-000000000000}",
+                                                "subId": 0
+                                            },
+                                            "loadBehavior": "QueueLoad",
+                                            "assetHint": ""
+                                        }
+                                    }
+                                ]
+                            },
+                            "propertyVisibilityFlags": 255,
+                            "ColliderTag": "",
+                            "RestOffset": 0.0,
+                            "ContactOffset": 0.019999999552965164
+                        },
+                        "ShapeConfiguration": {
+                            "PhysicsAsset": {
+                                "Asset": {
+                                    "assetId": {
+                                        "guid": "{00000000-0000-0000-0000-000000000000}",
+                                        "subId": 0
+                                    },
+                                    "loadBehavior": "QueueLoad",
+                                    "assetHint": ""
+                                },
+                                "Configuration": {
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "PhysicsAsset": {
+                                        "assetId": {
+                                            "guid": "{00000000-0000-0000-0000-000000000000}",
+                                            "subId": 0
+                                        },
+                                        "loadBehavior": "PreLoad",
+                                        "assetHint": ""
+                                    },
+                                    "AssetScale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "UseMaterialsFromAsset": true,
+                                    "SubdivisionLevel": 4
+                                }
+                            },
+                            "HasNonUniformScale": false,
+                            "SubdivisionLevel": 4
+                        },
+                        "DebugDrawSettings": {
+                            "LocallyEnabled": true
+                        },
+                        "ComponentMode": {},
+                        "HasNonUniformScale": false
+                    }
+                },
+                {
+                    "op": "add",
+                    "path": "/Entities/Entity_[1161019011648]/Components/EditorMeshColliderComponent",
+                    "value": {
+                        "$type": "EditorMeshColliderComponent",
+                        "Id": 7027099729634509696,
+                        "ColliderConfiguration": {
+                            "CollisionLayer": {
+                                "Index": 0
+                            },
+                            "CollisionGroupId": {
+                                "GroupId": "{00000000-0000-0000-0000-000000000000}"
+                            },
+                            "Visible": false,
+                            "Trigger": false,
+                            "Simulated": true,
+                            "DummySimulated": false,
+                            "InSceneQueries": true,
+                            "Exclusive": true,
+                            "Position": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ],
+                            "Rotation": [
+                                0.0,
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "MaterialSlots": {
+                                "Slots": [
+                                    {
+                                        "Name": "Entire object",
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{6D044767-4E3B-5116-A1A7-9C65BCF586A0}",
+                                                "subId": 1
+                                            },
+                                            "loadBehavior": "QueueLoad",
+                                            "assetHint": "physx/terrain_dirt.physicsmaterial"
+                                        }
+                                    }
+                                ]
+                            },
+                            "propertyVisibilityFlags": 255,
+                            "ColliderTag": "",
+                            "RestOffset": 0.0,
+                            "ContactOffset": 0.019999999552965164
+                        },
+                        "ShapeConfiguration": {
+                            "PhysicsAsset": {
+                                "Asset": {
+                                    "assetId": {
+                                        "guid": "{00000000-0000-0000-0000-000000000000}",
+                                        "subId": 0
+                                    },
+                                    "loadBehavior": "QueueLoad",
+                                    "assetHint": ""
+                                },
+                                "Configuration": {
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "PhysicsAsset": {
+                                        "assetId": {
+                                            "guid": "{00000000-0000-0000-0000-000000000000}",
+                                            "subId": 0
+                                        },
+                                        "loadBehavior": "PreLoad",
+                                        "assetHint": ""
+                                    },
+                                    "AssetScale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "UseMaterialsFromAsset": false,
+                                    "SubdivisionLevel": 4
+                                }
+                            },
+                            "HasNonUniformScale": false,
+                            "SubdivisionLevel": 4
+                        },
+                        "DebugDrawSettings": {
+                            "LocallyEnabled": true
+                        },
+                        "ComponentMode": {},
+                        "HasNonUniformScale": false
+                    }
+                }
+            ]
+        },
+        "Instance_[15953159271657]": {
             "Source": "Importer/curiosity_rover.prefab",
             "Patches": [
                 {
@@ -374,7 +598,7 @@
                     "path": "/ContainerEntity/Components/EditorDisabledCompositionComponent",
                     "value": {
                         "$type": "EditorDisabledCompositionComponent",
-                        "Id": 6860896506111397930,
+                        "Id": 8845025379180039534,
                         "DisabledComponents": []
                     }
                 },
@@ -383,7 +607,7 @@
                     "path": "/ContainerEntity/Components/EditorEntityIconComponent",
                     "value": {
                         "$type": "EditorEntityIconComponent",
-                        "Id": 5930441611658394646,
+                        "Id": 6893894060775457535,
                         "EntityIconAssetId": {
                             "guid": "{00000000-0000-0000-0000-000000000000}",
                             "subId": 0
@@ -395,7 +619,7 @@
                     "path": "/ContainerEntity/Components/EditorEntitySortComponent",
                     "value": {
                         "$type": "EditorEntitySortComponent",
-                        "Id": 1608774904392301148,
+                        "Id": 16083737735009323092,
                         "Child Entity Order": [
                             "Entity_[857796988608]"
                         ]
@@ -406,7 +630,7 @@
                     "path": "/ContainerEntity/Components/EditorInspectorComponent",
                     "value": {
                         "$type": "EditorInspectorComponent",
-                        "Id": 5126301772865321035,
+                        "Id": 7825130096364821735,
                         "ComponentOrderEntryArray": []
                     }
                 },
@@ -415,7 +639,7 @@
                     "path": "/ContainerEntity/Components/EditorOnlyEntityComponent",
                     "value": {
                         "$type": "EditorOnlyEntityComponent",
-                        "Id": 13879322524611252572,
+                        "Id": 14593192328065522660,
                         "IsEditorOnly": false
                     }
                 },
@@ -424,7 +648,7 @@
                     "path": "/ContainerEntity/Components/EditorPendingCompositionComponent",
                     "value": {
                         "$type": "EditorPendingCompositionComponent",
-                        "Id": 10199558776805987764,
+                        "Id": 6365404693547021426,
                         "PendingComponents": []
                     }
                 },
@@ -435,23 +659,18 @@
                 },
                 {
                     "op": "replace",
-                    "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Translate/0",
-                    "value": -10.58198356628418
+                    "path": "/Entities/Entity_[857796988608]/Components/TransformComponent/Transform Data/Translate/0",
+                    "value": -10.941205024719238
                 },
                 {
                     "op": "replace",
-                    "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Translate/1",
-                    "value": -2.4362616539001465
+                    "path": "/Entities/Entity_[857796988608]/Components/TransformComponent/Transform Data/Translate/1",
+                    "value": -2.5498499870300293
                 },
                 {
                     "op": "replace",
-                    "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Translate/2",
-                    "value": 1.2025198936462402
-                },
-                {
-                    "op": "replace",
-                    "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Rotate/2",
-                    "value": -173.6705322265625
+                    "path": "/Entities/Entity_[857796988608]/Components/TransformComponent/Transform Data/Translate/2",
+                    "value": 1.25
                 },
                 {
                     "op": "replace",
@@ -475,41 +694,33 @@
                 },
                 {
                     "op": "replace",
-                    "path": "/Entities/Entity_[1089725222592]/Components/ROS2CameraSensorEditorComponent/CameraSensorConfig/Width",
-                    "value": 640
+                    "path": "/Entities/Entity_[1094020189888]/Components/EditorRigidBodyComponent/Configuration/Centre of mass offset/0",
+                    "value": -3.215418820090576e-9
                 },
                 {
                     "op": "replace",
-                    "path": "/Entities/Entity_[1089725222592]/Components/ROS2CameraSensorEditorComponent/CameraSensorConfig/Height",
-                    "value": 480
+                    "path": "/Entities/Entity_[1094020189888]/Components/EditorRigidBodyComponent/Configuration/Centre of mass offset/1",
+                    "value": 2.9576858739943646e-9
                 },
                 {
                     "op": "replace",
-                    "path": "/Entities/Entity_[913631563456]/Components/EditorColliderComponent/ShapeConfiguration/Cylinder/Configuration/CookedData",
-                    "value": "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"
+                    "path": "/Entities/Entity_[1094020189888]/Components/EditorRigidBodyComponent/Configuration/Centre of mass offset/2",
+                    "value": -7.914478850068463e-9
                 },
                 {
                     "op": "replace",
-                    "path": "/Entities/Entity_[913631563456]/Components/EditorColliderComponent/ShapeConfiguration/Cylinder/Radius",
-                    "value": 0.2419999986886978
-                }
-            ]
-        },
-        "Instance_[13912118105631]": {
-            "Source": "rocky_ground.prefab",
-            "Patches": [
+                    "path": "/Entities/Entity_[1094020189888]/Components/EditorRigidBodyComponent/Configuration/Inertia tensor/0",
+                    "value": 0.0593920536339283
+                },
                 {
                     "op": "replace",
-                    "path": "/ContainerEntity/Components/TransformComponent/Parent Entity",
-                    "value": "../Entity_[1146574390643]"
+                    "path": "/Entities/Entity_[1094020189888]/Components/EditorRigidBodyComponent/Configuration/Inertia tensor/4",
+                    "value": 0.05657355487346649
                 },
                 {
-                    "op": "remove",
-                    "path": "/Entities/Entity_[393908528730]/Components/EditorEntitySortComponent/Child Entity Order/0"
-                },
-                {
-                    "op": "remove",
-                    "path": "/Entities/Entity_[443644086002]"
+                    "op": "replace",
+                    "path": "/Entities/Entity_[1094020189888]/Components/EditorRigidBodyComponent/Configuration/Inertia tensor/8",
+                    "value": 0.05657355487346649
                 }
             ]
         },
@@ -563,7 +774,7 @@
                 {
                     "op": "replace",
                     "path": "/Entities/Entity_[7486365012666]/Components/Component_[17075084475750345983]/Configuration/Centre of mass offset/0",
-                    "value": 8.756181335556331e-10
+                    "value": 8.75618133555633e-10
                 },
                 {
                     "op": "replace",
@@ -598,7 +809,7 @@
                 {
                     "op": "replace",
                     "path": "/Entities/Entity_[7494954947258]/Components/Component_[5546255188884728002]/Configuration/Centre of mass offset/0",
-                    "value": 8.756181335556331e-10
+                    "value": 8.75618133555633e-10
                 },
                 {
                     "op": "replace",
@@ -653,7 +864,7 @@
                 {
                     "op": "replace",
                     "path": "/Entities/Entity_[7512134816442]/Components/Component_[2887398288324076962]/Configuration/Centre of mass offset/0",
-                    "value": 8.756181335556331e-10
+                    "value": 8.75618133555633e-10
                 },
                 {
                     "op": "replace",
@@ -693,7 +904,7 @@
                 {
                     "op": "replace",
                     "path": "/Entities/Entity_[7525019718330]/Components/Component_[11685358238844952494]/Configuration/Centre of mass offset/0",
-                    "value": 8.756181335556331e-10
+                    "value": 8.75618133555633e-10
                 },
                 {
                     "op": "replace",
