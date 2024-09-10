@@ -12,7 +12,7 @@
         "RobotSim"
     ],
     "icon_path": "preview.png",
-    "engine": "o3de",
+    "engine": "o3de>=2.3.0",
     "external_subdirectories": [
         "Gem"
     ],
